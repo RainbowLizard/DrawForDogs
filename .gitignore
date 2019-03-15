@@ -1,0 +1,17 @@
+.mypy_cache/
+__pycache__/
+
+
+.idea
+.DS_Store
+.DS_STORE
+
+
+*.sqlite3
+migrations/
+db.sqlite3
+
+
+media_cdn/
+static_cdn/
+products/
